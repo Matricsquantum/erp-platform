@@ -63,7 +63,7 @@ async def login(login_request: LoginRequest):
     password = login_request.password
     if username in users and users[username] == password:
         return {"accessToken": "mock-token-123"}
-    raise HTTPException(status_code=401, detail="Invalid credentials")
+    raise HTTPException(status_code=401, detail="[error_id: 78] Invalid credentials")
 
 @app.get("/items")
 async def get_items(request: Request):
