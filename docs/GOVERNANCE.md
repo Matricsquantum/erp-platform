@@ -1,0 +1,11 @@
+# SynapseCore ERP Governance
+- **Project Lead**: SynapseCore  holds final decision-making authority on direction, features, and monetization.
+- **Vision**: Build a world-class, AI-driven ERP with 90% automation, free core, and paid upgrades.
+- **Roles**:
+  - **Lead (Matricsquantum)**: Approves PRs, sets roadmap.
+  - **Moderators**: Manage Discord, appointed by Lead.
+  - **Contributors**: Submit PRs under CLA.
+- **Decision Process**:
+  - Weekly votes on features (Discord poll).
+  - Lead veto power.
+- **Contributions**: Accepted under Apache 2.0 with CLA (see `CONTRIBUTING.md`).
